@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<objects>
+    <organisations>
+        <organisation>
+            <name>Aardvark Inc.</name>
+            <address>Tinseltown</address>
+            <!-- Test -->
+        </organisation>
+    </organisations>
+
+    <people>
+        <person>
+            <name>Mary Jane</name>
+        </person>
+        <person>
+            <name><!-- My name is --> Emma Ziegler</name>
+        </person>
+        <person>
+            <name>John Doe</name>
+        </person>
+    </people>
+</objects>
